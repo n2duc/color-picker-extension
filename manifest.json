@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Color Picker",
+    "description": "A simple color picker extension. Easily pikc an color in your screen, view and copy color to cipboard.",
+    "version": "1.0",
+
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icon": {
+        "16": "",
+        "32": "",
+        "48": "",
+        "128": ""
+    }
+}
